@@ -37,6 +37,12 @@ Input Video → YOLO Detection → Temporal Buffer → Video Model → Alert Sys
 - YOLOv11
 - Python
 
+
+## Training
+python src/train.py
+
+## Inference
+python src/inference.py
 ---
 
 ## 📈 Status
