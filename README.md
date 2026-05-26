@@ -1,4 +1,4 @@
-# 🔥 Unsafe-Net: Real-time Video Surveillance AI
+# 🔥 Real-time Video Surveillance AI
 
 ## 🎯 Problem
 Detect unsafe industrial actions in real-time using video understanding models.
