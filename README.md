@@ -34,7 +34,7 @@ Input Video → YOLO Detection → Temporal Buffer → Video Model → Alert Sys
 ## 🛠 Tech Stack
 - PyTorch
 - OpenCV
-- YOLOv8
+- YOLOv11
 - Python
 
 ---
