@@ -7,7 +7,7 @@ import random
 import numpy as np
 
 from dataset import VideoDataset
-from model import VideoSwin
+from src.model import VideoSwin
 
 # =====================================================
 # SEED
